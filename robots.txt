@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://3pattiskyapp.com.pk/sitemap.xml
+Sitemap: https://blesscrunch-create.github.io/3-Patti-Sky-/sitemap.xml
